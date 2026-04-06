@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Building scalable systems | 🤖 Exploring AI | ⚡ Shipping real-world products
+  🚀 Full Stack AI Engineer | Backend Specialist | System Builder
 </p>
 
 <p align="center">
